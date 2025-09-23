@@ -1,0 +1,39 @@
+*.css linguist-language=CSS linguist-vendored=false
+*.csv linguist-language=Csv linguist-vendored=false
+*.dockerignore linguist-language=Docker linguist-vendored=false
+*.dylib linguist-language=Dylib linguist-vendored=false
+*.gitignore linguist-language=Git linguist-vendored=false
+*.gz linguist-language=Gz linguist-vendored=false
+*.html linguist-language=HTML linguist-vendored=false
+*.icns linguist-language=Icns linguist-vendored=false
+*.ico linguist-language=Ico linguist-vendored=false
+*.jpg linguist-language=Jpg linguist-vendored=false
+*.js linguist-language=JavaScript linguist-vendored=false
+*.json linguist-language=JSON linguist-vendored=false
+*.md linguist-language=Markdown linguist-vendored=false
+*.odt linguist-language=Odt linguist-vendored=false
+*.pem linguist-language=PEM Key linguist-vendored=false
+*.pkg linguist-language=Pkg linguist-vendored=false
+*.plist linguist-language=Plist linguist-vendored=false
+*.py linguist-language=Python linguist-vendored=false
+*.pyc linguist-language=Pyc linguist-vendored=false
+*.pyz linguist-language=Pyz linguist-vendored=false
+*.qm linguist-language=Qm linguist-vendored=false
+*.rng linguist-language=Rng linguist-vendored=false
+*.sh linguist-language=Bash linguist-vendored=false
+*.so linguist-language=So linguist-vendored=false
+*.spec linguist-language=Spec linguist-vendored=false
+*.sty linguist-language=Sty linguist-vendored=false
+*.tab linguist-language=Tab linguist-vendored=false
+*.tex linguist-language=Tex linguist-vendored=false
+*.toc linguist-language=Toc linguist-vendored=false
+*.tpl linguist-language=Template File linguist-vendored=false
+*.txt linguist-language=Text File linguist-vendored=false
+*.xsl linguist-language=Xsl linguist-vendored=false
+*.zi linguist-language=Zi linguist-vendored=false
+*.zip linguist-language=Zip linguist-vendored=false
+Dockerfile linguist-language=Docker linguist-vendored=false
+surneco-warehouse/dist/surneco-warehouse.app/Contents/MacOS/libopenblas64_.0.dylib filter=lfs diff=lfs merge=lfs -text
+surneco-warehouse/dist/surneco-warehouse.app/Contents/MacOS/cv2/cv2.abi3.so filter=lfs diff=lfs merge=lfs -text
+surneco-warehouse/dist/surneco-warehouse/libopenblas64_.0.dylib filter=lfs diff=lfs merge=lfs -text
+surneco-warehouse/dist/surneco-warehouse/cv2/cv2.abi3.so filter=lfs diff=lfs merge=lfs -text

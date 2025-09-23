@@ -1,0 +1,10 @@
+**/build/**
+**/dist/**
+*.spec
+**/reports/**
+.git
+.gitignore
+.dockerignore
+Dockerfile
+docker_run.sh
+README.md
